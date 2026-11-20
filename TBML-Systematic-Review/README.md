@@ -29,4 +29,5 @@ It also compiles as-is on Overleaf.
 
 ## Related code
 
-The prototype built from this review's reference architecture: [Bank-Based-Money-Laundering-Detection](https://github.com/theguyingreyhoodie/Bank-Based-Money-Laundering-Detection).
+- [Bank-Based-Money-Laundering-Detection](https://github.com/theguyingreyhoodie/Bank-Based-Money-Laundering-Detection): the prototype built from this review's reference architecture, on bank transfers.
+- [Trade-Based-Money-Laundering-Detection](https://github.com/theguyingreyhoodie/Trade-Based-Money-Laundering-Detection): the trade-data step, with federated learning across banks, traders, carriers and customs and a blockchain evidence ledger.
